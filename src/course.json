@@ -1,0 +1,100 @@
+{
+    "course": [
+        {
+            "main_heading": "Complete Python Developer in 2023: Zero to Mastery",
+            "small_heading": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
+            "students": "47,543",
+            "instructor": "Andrei Neagoie",
+            "date_created": "04/2023",
+            "language": "English",
+            "what_one": "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+            "what_two": "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+            "what_three": "Build fully-fledged websites and web apps for your startup or business.",
+            "course_length": "30h",
+          "requirement": "No previous programming experience needed",
+          "description":"Just updated for 2023! It's time to become a modern and complete Python developer! Join a live online community of over 900, 000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Meta, + other top tech companies",
+          "vedio_url": "https://www.youtube.com/embed/4uBbCUjJ_G8?controls=0",
+          "poster_url": "https://i.ytimg.com/vi/na2iB6nBzIc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhkK25Ia1ewl2uF4PGubPNC4-vrg"
+        },
+        {
+            "main_heading": "The Data Science Course 2023: Complete Data Science Bootcamp",
+            "small_heading": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+            "students": "122,243",
+            "instructor": "Edureka",
+            "date_created": " 12/2022",
+            "language": "English ,Hindi",
+            "what_one": "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+            "what_two": "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+            "what_three": "Build fully-fledged websites and web apps for your startup or business.",
+            "course_length": "10h",
+            "requirement": "No prior experience is required. We will start from the very basics",
+            "description": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist. And how can you do that? Universities have been slow at creating specialized data science programs. (not to mention that the ones that exist are very expensive and time consuming) Most online courses focus on a specific topic and it is difficult to understand how the skill they teach fit in the complete picture  ",
+            "vedio_url": "https://www.youtube.com/embed/-ETQ97mXXF0",
+            "poster_url": "https://i.ytimg.com/vi/-ETQ97mXXF0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJFiZ64-0zo27zHA_rYsvBxaeHCw"
+        },
+        {
+            "main_heading": "The Complete 2023 FrontEnd Web Development Bootcamp",
+            "small_heading": "Become a frontend Web Developer with just ONE course. HTML, CSS, Javascript",
+            "students": "799,446",
+            "instructor": "FreeCodeCamp",
+            "date_created": "04/2023",
+            "language": "English",
+            "what_one": "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+            "what_two": "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+            "what_three": "Build fully-fledged websites and web apps for your startup or business.  ",         "course_length": "21h",
+          "requirement": "No programming experience needed - I'll teach you everything you need to know",
+          "description":"Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150, 000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Unicorn! ",
+          "vedio_url": "https://www.youtube.com/embed/zJSY8tbf_ys",
+          "poster_url": "https://i.ytimg.com/vi/zJSY8tbf_ys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiTtHDuTDXajbwFXx5QvVfW6D55A"
+        },
+        {
+          "main_heading": "Complete Python Developer in 2023: Zero to Mastery",
+          "small_heading": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
+          "students": "47,543",
+          "instructor": "Andrei Neagoie",
+          "date_created": "04/2023",
+          "language": "English",
+          "what_one": "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+          "what_two": "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+          "what_three": "Build fully-fledged websites and web apps for your startup or business.",
+          "course_length": "30h",
+        "requirement": "No previous programming experience needed",
+        "description":"Just updated for 2023! It's time to become a modern and complete Python developer! Join a live online community of over 900, 000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Meta, + other top tech companies",
+        "vedio_url": "https://www.youtube.com/embed/4uBbCUjJ_G8?controls=0",
+        "poster_url": "https://i.ytimg.com/vi/na2iB6nBzIc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhkK25Ia1ewl2uF4PGubPNC4-vrg"
+      },
+      {
+          "main_heading": "The Data Science Course 2023: Complete Data Science Bootcamp",
+          "small_heading": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+          "students": "122,243",
+          "instructor": "Edureka",
+          "date_created": " 12/2022",
+          "language": "English ,Hindi",
+          "what_one": "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+          "what_two": "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+          "what_three": "Build fully-fledged websites and web apps for your startup or business.",
+          "course_length": "10h",
+          "requirement": "No prior experience is required. We will start from the very basics",
+          "description": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist. And how can you do that? Universities have been slow at creating specialized data science programs. (not to mention that the ones that exist are very expensive and time consuming) Most online courses focus on a specific topic and it is difficult to understand how the skill they teach fit in the complete picture  ",
+          "vedio_url": "https://www.youtube.com/embed/-ETQ97mXXF0",
+          "poster_url": "https://i.ytimg.com/vi/-ETQ97mXXF0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJFiZ64-0zo27zHA_rYsvBxaeHCw"
+      },
+      {
+          "main_heading": "The Complete 2023 FrontEnd Web Development Bootcamp",
+          "small_heading": "Become a frontend Web Developer with just ONE course. HTML, CSS, Javascript",
+          "students": "799,446",
+          "instructor": "FreeCodeCamp",
+          "date_created": "04/2023",
+          "language": "English",
+          "what_one": "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+          "what_two": "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+          "what_three": "Build fully-fledged websites and web apps for your startup or business.  ",         "course_length": "21h",
+        "requirement": "No programming experience needed - I'll teach you everything you need to know",
+        "description":"Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150, 000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Unicorn! ",
+        "vedio_url": "https://www.youtube.com/embed/zJSY8tbf_ys",
+        "poster_url": "https://i.ytimg.com/vi/zJSY8tbf_ys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiTtHDuTDXajbwFXx5QvVfW6D55A"
+      }
+     
+       
+    ]
+}
