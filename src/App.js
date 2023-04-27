@@ -8,6 +8,8 @@ import Coursedetail from './components/Coursedetail';
 import Lecture from './components/Lecture';
 import Footer from './components/Footer';
 import Signup from './components/Signup';
+import TopCourses from './components/coursole/TopCourses';
+import Story from './components/Story';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
@@ -15,7 +17,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={<><Coursoul /><Recommded /><StudentView /><Topic /></>}></Route>
+        <Route exact path="/" element={<><Coursoul /><Recommded /><StudentView /><Story/><TopCourses/><Topic /></>}></Route>
 
         <Route exact path="/detail" element={<><Coursedetail /></>}></Route>
 

@@ -1,17 +1,13 @@
 import React from 'react'
 import Card from './Card'
 import data from '../../course.json'
-
-
-
-export default function Recommded() {
-  return (    
-    <div className='m-5' id="recommand"> 
-    <h2 className='fw-bolder text-dark-emphasis '>Recommended for you</h2>
+export default function TopCourses() {
+  return (
+    <div className='m-5'> 
+    <h2 className='fw-bolder text-dark-emphasis ' id="studentview">Top Courses</h2>
     
       <div className="d-flex justify-content-around">
-      
-        {
+      {
           data.course.map((item)=>{
             return(
 
@@ -40,16 +36,10 @@ export default function Recommded() {
           })
         }
       
-       
+        
        
 
       </div>
     </div>
-  
-    
   )
 }
-
-
-
-

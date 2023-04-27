@@ -4,7 +4,7 @@ import data from '../../course.json'
 export default function StudentView() {
   return (
     <div className='m-5'> 
-    <h2 className='fw-bolder text-dark-emphasis '>Student also view</h2>
+    <h2 className='fw-bolder text-dark-emphasis ' id="studentview">Student also view</h2>
     
       <div className="d-flex justify-content-around">
       {

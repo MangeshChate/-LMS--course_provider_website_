@@ -18,7 +18,15 @@ export default function Coursedetail() {
     const [ what_two , what_you_learn_two ] = useState('')
     const [ what_three , what_you_learn_three ] = useState('')
 
-    
+    const [color , setColor ] = useState('primary')
+    const [enroll , setEnroll ] = useState('Enroll')
+
+
+    const handleEnroll = ()=>{
+        setColor('success')
+        setEnroll('start learning')
+        alert('Enrollment Successfull ! ')
+    }
 
  
 
@@ -120,7 +128,12 @@ export default function Coursedetail() {
                     <span className="fw-lighter ms-2" style={{ fontSize: "13px" }}>100% off</span>
                   </div>
                   <div >
-                    <Link to="/lecture" className="btn  rounded-0 btn-primary text-light fw-bold w-100">Enroll</Link>
+                
+
+                    <Link to="/lecture" className="btn  rounded-0 btn-primary text-light fw-bold w-100" onClick={()=>handleEnroll()}>{enroll}</Link>
+                  
+                    
+
                   </div>
 
                   <div className="container justify-content-center d-flex m-2">
